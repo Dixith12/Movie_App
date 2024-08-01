@@ -15,6 +15,7 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.wrapContentHeight
+import androidx.compose.foundation.layout.wrapContentWidth
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
@@ -88,9 +89,8 @@ private fun DetailValue(PaddingValues: PaddingValues, newMOvieList: List<movie>)
                 items(newMOvieList[0].Images) { image ->
                     Card(
                         modifier = Modifier
-                            .wrapContentHeight()
-                            .padding(12.dp)
-                            .size(240.dp), elevation = CardDefaults.cardElevation(4.dp)
+                            .padding(6.dp)
+                            .size(240.dp).wrapContentHeight().wrapContentWidth(), elevation = CardDefaults.cardElevation(4.dp)
                     ) {
                         Image(
                             painter = rememberAsyncImagePainter(model = image),
