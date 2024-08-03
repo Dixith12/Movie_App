@@ -7,9 +7,7 @@ This project demonstrates the use of Jetpack Compose for building responsive UI 
 
 Screen Shots
 
-![Screenshot_2024-08-03-22-39-40-604_com example movieapp](https://github.com/user-attachments/assets/e5b59ce4-b527-4815-bb6c-f1e07ccc65c1)
-![Screenshot_2024-08-03-22-40-17-330_com example movieapp](https://github.com/user-attachments/assets/7fbf5b5d-7d1b-4339-a63e-5d38322949ee)
-![Screenshot_2024-08-03-22-39-58-873_com example movieapp](https://github.com/user-attachments/assets/159f4ea5-b72d-40d2-b81b-502e6c4cf4ea)
-![Screenshot_2024-08-03-22-39-44-295_com example movieapp](https://github.com/user-attachments/assets/aa7b47c6-4f2a-4478-bf60-c3ad500953f5)
+![Screenshot_2024-08-03-22-39-40-604_com example movieapp](https://github.com/user-attachments/assets/a9892e01-be8e-44e9-be3e-ba0b43913bd6)
+
 
 
